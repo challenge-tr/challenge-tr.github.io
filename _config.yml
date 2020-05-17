@@ -4,20 +4,14 @@ title: Challenge Türkiye
 #baseurl: / # name of the repository
 email: tasali@protonmail.com
 
-
-
 highlighter: rouge
 markdown: kramdown
 
 
 paginate: 4
 
-
-# Tracker
-# analytics: UA-83979019-4
-
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: challenge-turkiye
 
 
 #optimization
