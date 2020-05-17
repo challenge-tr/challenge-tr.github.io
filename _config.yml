@@ -1,8 +1,8 @@
 ### your site title here
 
-title: Hagura - Light!
-baseurl: /hagura # name of the repository
-email: your@email.com
+title: Challenge Türkiye
+#baseurl: / # name of the repository
+email: tasali@protonmail.com
 
 
 
@@ -14,7 +14,7 @@ paginate: 4
 
 
 # Tracker
-analytics: UA-83979019-4
+# analytics: UA-83979019-4
 
 # Comments
 disqus-shortname: webjeda-demo
