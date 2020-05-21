@@ -53,9 +53,9 @@ One at a time, but indeed one is many. (Birer birer, ama kesin olan şey birin b
 
 # Sık kullanılan terimler ve anlamları
 
-**Sertifika:** Başarılı olan öğrencilere verilen saygın ve kabul görür olması umulan ve öğrencinin (veya Eğitim Almış Eğitmen) yeteneklerinin geçerliliğini doğrulayan belge.
-**Eğitmen:** _Eğitim Almış Eğitmen_ veya yetenekleri yer aldığı projelerle çoktan kanıtlanmış platform üzerinde _Eğitim_ verebilecek/veren geliştirici.
-**Eğitim Almış Eğitmen:** Statüsünü projenin sertifika programını tamamlayarak elde etmiş önceki öğrenci, geliştirici.
-**Eğitim:** Katılım sağlamış bireylerin devam eden/tamamlanmış öğrenim süreçleri
-**Yarı Eğitmen:** Henüz eğitimini tamamlamamış ancak belli sorumlulukları başarıyla yerine getirdiği için kendi Eğitmenlerinin süpervizörlüğünde eğitim verebilicek _Öğrenci_ler.
-**Öğrenci:** Proje dahilinde _Eğitim_ alan kimse
+* **Sertifika:** Başarılı olan öğrencilere verilen saygın ve kabul görür olması umulan ve öğrencinin (veya Eğitim Almış Eğitmen) yeteneklerinin geçerliliğini doğrulayan belge.
+* **Eğitmen:** _Eğitim Almış Eğitmen_ veya yetenekleri yer aldığı projelerle çoktan kanıtlanmış platform üzerinde _Eğitim_ verebilecek/veren geliştirici.
+* **Eğitim Almış Eğitmen:** Statüsünü projenin sertifika programını tamamlayarak elde etmiş önceki öğrenci, geliştirici.
+* **Eğitim:** Katılım sağlamış bireylerin devam eden/tamamlanmış öğrenim süreçleri
+* **Yarı Eğitmen:** Henüz eğitimini tamamlamamış ancak belli sorumlulukları başarıyla yerine getirdiği için kendi Eğitmenlerinin süpervizörlüğünde eğitim verebilicek _Öğrenci_ler.
+* **Öğrenci:** Proje dahilinde _Eğitim_ alan kimse
