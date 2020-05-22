@@ -33,7 +33,7 @@ Bu kesinlikle tartışmaya açık bir konu olsa da, eğer başlangıçta iyi bir
 
 # Farklı kültürlerden insanları FOSS camiasına katılmaya nasıl teşvik edecek?
 
-Farklı kültürlerden geliştiricileri platformda Eğitmen olmaya devam etmek en doğru cevap gibi duruyor. Örneğin Türkiye'den katılacak FOSS destekçisi geliştiricilerin sistem üzerinde aktif olması ve platformdan bahsetmeleri sistem üzerinde Türkiye'den katılımcıların varlığının olmasını tetikleyebilir. 
+Farklı kültürlerden geliştiricileri platformda Eğitmen olmaya davet etmek en doğru cevap gibi duruyor. Örneğin Türkiye'den katılacak FOSS destekçisi geliştiricilerin sistem üzerinde aktif olması ve platformdan bahsetmeleri sistem üzerinde Türkiye'den katılımcıların varlığının olmasını tetikleyebilir. 
 
 # Eğitmenlere Öğrenciler nasıl atanır (tartışmaya açık)?
 
@@ -47,7 +47,7 @@ Sürdürebilir ve toplumun yararına olan her türlü proje uygun olabilir. Bunl
 
 Hayır, bu isim projenin kod adıdır ve projenin gerçek olması halinde kalıcı bir isimle değiştirilecektir. 
 
-# Mottomuz ne olabilir.
+# Mottomuz ne olabilir?
 
 One at a time, but indeed one is many. (Birer birer, ama kesin olan şey birin bir sürü olduğu)
 
@@ -57,5 +57,5 @@ One at a time, but indeed one is many. (Birer birer, ama kesin olan şey birin b
 * **Eğitmen:** _Eğitim Almış Eğitmen_ veya yetenekleri yer aldığı projelerle çoktan kanıtlanmış platform üzerinde _Eğitim_ verebilecek/veren geliştirici.
 * **Eğitim Almış Eğitmen:** Statüsünü projenin sertifika programını tamamlayarak elde etmiş önceki öğrenci, geliştirici.
 * **Eğitim:** Katılım sağlamış bireylerin devam eden/tamamlanmış öğrenim süreçleri
-* **Yarı Eğitmen:** Henüz eğitimini tamamlamamış ancak belli sorumlulukları başarıyla yerine getirdiği için kendi Eğitmenlerinin süpervizörlüğünde eğitim verebilicek _Öğrenci_ler.
+* **Yarı Eğitmen:** Henüz eğitimini tamamlamamış ancak belli sorumlulukları başarıyla yerine getirdiği için kendi Eğitmenlerinin süpervizörlüğünde eğitim verebilecek *Öğrenci*ler.
 * **Öğrenci:** Proje dahilinde _Eğitim_ alan kimse
